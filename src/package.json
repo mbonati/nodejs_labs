@@ -1,8 +1,0 @@
-{
-    "name": "lab15.nodejs.helloworld",
-    "description": "Hello World node.js",
-    "version": "0.1.0",
-    "author": "Marco Bonati",
-    "dependencies": {},
-    "devDependencies": {}
-}
