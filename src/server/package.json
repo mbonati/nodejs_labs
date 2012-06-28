@@ -1,7 +1,7 @@
 {
-    "name": "lab15.nodejs.helloworld",
-    "description": "Hello World node.js",
-    "version": "0.1.0",
+    "name": "lab15.nodejs.simpleserver",
+    "description": "Simple Server with node.js",
+    "version": "0.1.1",
     "author": "Marco Bonati",
     "dependencies": {},
     "devDependencies": {}
